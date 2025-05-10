@@ -19,7 +19,6 @@ class Program
       string json = File.ReadAllText("dados.json");
       List<FaturamentoDia> dados = JsonSerializer.Deserialize<List<FaturamentoDia>>(json);
 
-      // Filtrar apenas dias com faturamento > 0
       var diasComFaturamento = dados.Where(d => d.valor > 0).ToList();
 
       double menorValor = diasComFaturamento.Min(d => d.valor);
