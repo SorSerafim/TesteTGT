@@ -8,7 +8,7 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "/home/risos/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "/home/risos/Documentos/repositories/TesteTGT/Questao2/Questao2.csproj",
       "projectName": "Questao2",
       "projectPath": "/home/risos/Documentos/repositories/TesteTGT/Questao2/Questao2.csproj",
-      "packagesPath": "/root/.nuget/packages/",
+      "packagesPath": "/home/risos/.nuget/packages/",
       "outputPath": "/home/risos/Documentos/repositories/TesteTGT/Questao2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "/home/risos/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

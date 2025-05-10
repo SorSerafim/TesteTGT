@@ -12,3 +12,4 @@
 /home/risos/Documentos/repositories/TesteTGT/Questao1/obj/Debug/net8.0/Questao1.pdb
 /home/risos/Documentos/repositories/TesteTGT/Questao1/obj/Debug/net8.0/Questao1.genruntimeconfig.cache
 /home/risos/Documentos/repositories/TesteTGT/Questao1/obj/Debug/net8.0/ref/Questao1.dll
+/home/risos/Documentos/repositories/TesteTGT/Questao1/obj/Debug/net8.0/Questao1.sourcelink.json

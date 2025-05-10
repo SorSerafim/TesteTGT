@@ -10,11 +10,11 @@
         "projectUniqueName": "/home/risos/Documentos/repositories/TesteTGT/Questao1/Questao1.csproj",
         "projectName": "Questao1",
         "projectPath": "/home/risos/Documentos/repositories/TesteTGT/Questao1/Questao1.csproj",
-        "packagesPath": "/root/.nuget/packages/",
+        "packagesPath": "/home/risos/.nuget/packages/",
         "outputPath": "/home/risos/Documentos/repositories/TesteTGT/Questao1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/home/risos/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
